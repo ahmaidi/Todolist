@@ -35,7 +35,6 @@ Pour exécuter le projet et utiliser l'application de gestion de tâches que vou
 
 Vous pouvez ainsi gérer vos tâches à l'aide de cette application de gestion de tâches simple.
 
-N'oubliez pas de consulter la documentation de votre système de versionnement pour toute information spécifique sur la gestion du code source, le suivi des modifications et le déploiement de l'application.
 
    
 
